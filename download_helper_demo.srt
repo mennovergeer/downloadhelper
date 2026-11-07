@@ -1,0 +1,27 @@
+1
+00:00:00,350 --> 00:00:02,438
+You've just downloaded a signed quote.
+
+2
+00:00:03,050 --> 00:00:07,483
+Download Helper reads the client's name inside, and suggests the right folder.
+
+3
+00:00:08,100 --> 00:00:10,056
+One click, and it's filed.
+
+4
+00:00:10,900 --> 00:00:17,959
+Download an expense receipt, and it prepares a draft email to your bookkeeper — attachment included, ready to send.
+
+5
+00:00:18,750 --> 00:00:24,169
+Download an image? It knows you edit pictures in Paint, and opens it right on the canvas.
+
+6
+00:00:24,700 --> 00:00:30,040
+Once a filing pattern is clear, routine downloads happen automatically — with undo.
+
+7
+00:00:30,800 --> 00:00:33,821
+And everything stays local, right on your own computer.
